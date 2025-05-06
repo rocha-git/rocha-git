@@ -23,7 +23,6 @@ Olá, me chamo **André** e estou em busca de **oportunidades de aprendizado** c
 # Git Hub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocha-git&theme=transparent&bg_color=130032&border_color=5500E0&show_icons=true&icon_color=7C74F7&title_color=5500E0&text_color=FFF&hide_title=true)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rocha-git&layout=compact&bg_color=130032&border_color=5500E0&title_color=FFF&text_color=FFF)
 
 # Minhas contribuições
