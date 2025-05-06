@@ -8,7 +8,7 @@ Olá, me chamo **André** e estou em busca de **oportunidades de aprendizado** c
 
 [![Gmail](https://img.shields.io/badge/Gmail-242424?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:andrerochagit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/andr%C3%A9-carlos-822245254/)
-[![Instagram](https://img.shields.io/badge/-Instagram-242424?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/eodre_/)
+[![Instagram](https://img.shields.io/badge/-Instagram-242424?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/rocha.io/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-242424?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.link/d8385a)
 
 # Habilidades
