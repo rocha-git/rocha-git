@@ -1,33 +1,64 @@
+# 👋 Olá! Eu sou o André Rocha
 
-# Sobre mim
+Desenvolvedor em início de carreira, apaixonado por aprender e compartilhar conhecimento.  
+Atualmente em busca de **oportunidades para adquirir experiência real na área de desenvolvimento**. :contentReference[oaicite:1]{index=1}
 
-Olá, me chamo **André** e estou em busca de **oportunidades de aprendizado** com o foco em migrar de área.
+---
 
+## 🔧 Sobre mim
 
-# Conecte-se comigo
+- 🧠 Sempre estudando novas tecnologias  
+- 🚀 Construindo projetos para praticar e evoluir  
+- 🤝 Aberto a colaborações e oportunidades
 
-[![Gmail](https://img.shields.io/badge/Gmail-242424?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:andrerochagit@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/andr%C3%A9-carlos-822245254/)
-[![Instagram](https://img.shields.io/badge/-Instagram-242424?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/rocha.io/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-242424?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.link/d8385a)
+---
 
-# Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-242424?style=for-the-badge&logo=html5&logoColor=hmtl5)
-![CSS3](https://img.shields.io/badge/CSS3-242424?style=for-the-badge&logo=css3&logoColor=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-242424?style=for-the-badge&logo=mysql&logoColor=FFF)
-![Git](https://img.shields.io/badge/GIT-242424?style=for-the-badge&logo=git&logoColor=git)
-![Figma](https://img.shields.io/badge/Figma-242424?style=for-the-badge&logo=figma&logoColor=figma)
-![NodeJS](https://img.shields.io/badge/node.js-242424?style=for-the-badge&logo=node.js&logoColor=node.js)
+## 📫 Conecte-se comigo
 
-# Git Hub Stats
+👉 Vamos trocar uma ideia!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocha-git&theme=transparent&bg_color=242424&border_color=242424&show_icons=true&icon_color=FFF&title_color=F7F7F7&text_color=F7F7F7&hide_title=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rocha-git&layout=compact&bg_color=242424&border_color=242424&title_color=F7F7F7&text_color=F7F7F7)
+[📧 Email](mailto:seuemail@example.com)  
+[🔗 LinkedIn](https://linkedin.com/in/seuperfil)  
+[📸 Instagram](https://instagram.com/seuperfil)  
+💬 WhatsApp: +55 (XX) XXXXX-XXXX
 
-# Minhas contribuições
+*(Substitua pelos seus links reais)*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rocha-git&repo=dio-lab-open-source&bg_color=242424&border_color=242424&show_icons=true&icon_color=F7F7F7&title_color=F7F7F7&text_color=F7F7F7)](https://github.com/rocha-git/dio-lab-open-source)
+---
 
+## 🛠️ Habilidades
 
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git, Figma :contentReference[oaicite:2]{index=2}
 
+---
+
+## 🚀 Destaques do GitHub
+
+Alguns dos meus repositórios públicos:
+
+🎯 **AulaDio**  
+🧠 **Classificador-Her-i-Dio**  
+🧮 **CalculadoraRankeada**  
+📚 **Classe-e-Objeto**  
+🌍 **dio-lab-open-source** *(contribuição em projeto open source)*  
+📌 **rocha-git** *(este perfil)* :contentReference[oaicite:3]{index=3}
+
+---
+
+## 📈 Estatísticas (via GitHub)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocha-git&show_icons=true&theme=midnight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-git&theme=midnight)
+
+---
+
+## 💡 Vamos construir algo juntos?
+
+Estou aberto a **colaborações**, **estágios** ou **primeiras oportunidades profissionais**! 🚀
+
+---
+
+*Obrigado pela visita!* 😊  
