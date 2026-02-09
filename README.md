@@ -24,10 +24,11 @@
 <br>
 <h1 align = center>🌍 Onde me encontrar</h1>
 <div align="center">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-carlos-822245254/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rocha-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"/>
 </div>
-
