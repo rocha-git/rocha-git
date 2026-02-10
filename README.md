@@ -1,5 +1,5 @@
 <div align = center>
-    <h1><strong>Olá, me chamo André</strong> <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFyd3B3NDV5eG41c3JpOXJ3NmUwa2kxdHc0djNhNGF3Z3A2NWxnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"/></h1>
+    <h1><strong>Olá, me chamo André</strong> <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFyd3B3NDV5eG41c3JpOXJ3NmUwa2kxdHc0djNhNGF3Z3A2NWxnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" height="60"/></h1>
     <strong>Desenvolvedor em construção</strong>
 </div>
 
