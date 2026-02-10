@@ -4,11 +4,13 @@
 </div>
 
 <br>
-🚀 Sobre mim<br>
+
+<div align = center>🚀 Sobre mim<br>
 - 💻 Estudando e praticando desenvolvimento<br>
 - 📚 Sempre aprendendo algo novo  <br>
 - 🤝 Aberto a colaborações e oportunidades  <br>
 - 🎯 Foco em evoluir com projetos reais<br><br>
+</div>
 
 <h1 align= center>🧠 Atualmente estudando</h1>
 <div align="center">
