@@ -6,12 +6,6 @@
 <br>
 
 <div align = center>
-  <img src ="[https://imgur.com/bahOfIB](https://i.imgur.com/bahOfIB.jpeg)" height="250"/>
-</div>
-
-<br>
-
-<div align = center>
 🚀 Sobre mim<br>
 - 💻 Estudando e praticando desenvolvimento<br>
 - 📚 Sempre aprendendo algo novo  <br>
