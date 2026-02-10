@@ -12,7 +12,7 @@
 - 🎯 Foco em evoluir com projetos reais<br><br>
 </div>
 
-<h1 align= center>🧠 Atualmente estudando</h1>
+<h1 align= center>Atualmente estudando</></h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="typescript logo"  />
