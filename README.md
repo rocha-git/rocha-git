@@ -6,7 +6,7 @@
 <br>
 
 <div align = center>
-  <img src ="https://imgur.com/bahOfIB" height="150"/>
+  <img src ="[https://imgur.com/bahOfIB](https://i.imgur.com/bahOfIB.jpeg)" height="150"/>
 </div>
 
 <br>
