@@ -1,4 +1,4 @@
-<div align = center>
+<div align = center color = black>
     <h1><strong>Olá, me chamo André</strong></h1>
     <strong>Desenvolvedor em construção</strong>
 </div>
