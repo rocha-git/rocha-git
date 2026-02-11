@@ -1,8 +1,8 @@
 <div>
-    <img width= "100%" src= "https://capsule-render.vercel.app/api?type=waving&height=300&color=black">
+    <img width= "100%" src= "https://capsule-render.vercel.app/api?type=waving&height=150&color=black">
 </div>
 
-<div align= center>
+<div align= center >
     <p>Olá, sou André</p>
 </div>
 
