@@ -27,11 +27,6 @@ Desenvolvedor em formação. Foco em projetos práticos e aprendizado contínuo.
 ## GitHub
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rocha-git&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-git&layout=compact&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocha-git)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-<div align="center">
