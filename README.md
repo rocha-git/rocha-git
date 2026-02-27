@@ -2,8 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:111827&height=160&section=header&text=André%20Rocha&fontSize=36&fontColor=ffffff)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&font=Pixelify+Sans&pause=0&color=F7F7F7&background=FF100200&width=600&lines=Estudante+de+Sistemas+de+informa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&font=Fira+Code&pause=100&color=F7F7F7&background=FF100200&width=450&lines=Estudante+de+Sistemas+de+informa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 </div>
 
@@ -30,6 +29,6 @@ Desenvolvedor em formação. Foco em projetos práticos e aprendizado contínuo.
 ## GitHub
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocha-git&hide=contribs,prs)
+<img width= 60% src="https://streak-stats.demolab.com?font=Pixelify+Sans&user=rocha-git&theme=dark&border_radius=0&locale=pt_BR&mode=weekly&background=000000&border=EBEBEB&fire=EBEBEB&ring=EBEBEB&dates=EBEBEB&stroke=EBEBEB&currStreakNum=EBEBEB&excludeDaysLabel=EBEBEB&currStreakLabel=EBEBEB" alt="GitHub Streak" />
 
 </div>
