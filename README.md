@@ -27,7 +27,11 @@ Desenvolvedor em formação. Foco em projetos práticos e aprendizado contínuo.
 ## GitHub
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rocha-git&show_icons=true&theme=github_dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-git&layout=compact&theme=github_dark&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=rocha-git&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-git&layout=compact&theme=github_dark)
 
 </div>
+
+---
+
+<div align="center">
